@@ -23,15 +23,15 @@ This project is a modern, responsive website for Sidcup Family Golf, a multipurp
 
   ## Screenshots
 
-<img src="Screenshots/Screenshot 2024-08-31 224056.png" alt="Screenshot 1" />
+<img src="ScreenShots/Screenshot 2024-08-31 224056.png" alt="Screenshot 1" />
 
 
 
-<img src="Screenshots/Screenshot 2024-08-31 224112.png" alt="Screenshot 2" />
+<img src="ScreenShots/Screenshot 2024-08-31 224112.png" alt="Screenshot 2" />
 
 
 
-<img src="Screenshots/Screenshot 2024-08-31 224126.png" alt="Screenshot 3" />
+<img src="ScreenShots/Screenshot 2024-08-31 224126.png" alt="Screenshot 3" />
 
 These screenshots provide a visual representation of the website's design and layout.
 
