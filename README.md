@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Pradipta Dutta - [pradipto9798@gmail.com](mailto:pradipto9798@gmail.com)
 
-Project Link: [https://github.com/your-username/sidcup-family-golf](https://github.com/your-username/sidcup-family-golf)
+Project Link: [https://github.com/Pradipta7171/sidcup-family-golf](https://github.com/Pradipta7171/sidcup-family-golf)
 
 ## Acknowledgements
 
