@@ -21,6 +21,16 @@ This project is a modern, responsive website for Sidcup Family Golf, a multipurp
 - JavaScript
 - [Any additional libraries or frameworks, e.g. jQuery, Bootstrap]
 
+  ## Screenshots
+
+The `ScreenShots` folder contains the following images showcasing the website:
+
+- Screenshot 2024-08-31 224056.png
+- Screenshot 2024-08-31 224112.png
+- Screenshot 2024-08-31 224126.png
+
+These screenshots provide a visual representation of the website's design and layout.
+
 ## Installation
 
 1. Clone the repository:
